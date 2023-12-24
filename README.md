@@ -11,7 +11,7 @@
 <br>
 
 <img src="https://github.com/byteguy8/BChords/assets/146300082/e7cbf121-6e7b-44be-b18e-52fd2f0b4909" width="256">
-<p>Select the main bote of the chord.</p>
+<p>Select the main note of the chord.</p>
 <br>
 <br>
 
